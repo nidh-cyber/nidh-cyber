@@ -99,6 +99,3 @@ I've worked on enterprise-level applications handling large datasets, designed o
 
 Check out my interactive portfolio: [Live Portfolio](https://portfolio-nidh-cyber.vercel.app/)
 
----
-
-*Last updated: 2024*
